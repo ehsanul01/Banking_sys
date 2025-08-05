@@ -23,7 +23,7 @@ A simple command-line **Banking System** written in Java that allows users to:
 ### 1. **Clone or Download**
 Download the source code or clone the repository:
 ```bash
-git clone https://github.com/ehsanul01/java-banking-system.git
+[git clone https://github.com/ehsanul01/Banking_sys.git]
 ```
 
 ### 2. **Compile**
