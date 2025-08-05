@@ -1,4 +1,4 @@
-# 🏦 Java Banking System
+# 🏦  Banking System
 
 A simple command-line **Banking System** written in Java that allows users to:
 
